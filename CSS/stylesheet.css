@@ -1,0 +1,64 @@
+*{ 
+ font-family: 'Alatsi', sans-serif; 
+
+}
+
+body{ 
+   background-color: #ad8764; 
+}
+
+h1{ 
+  background-color: yellow;  
+  font-size: 50pt;
+  font-style: italic;
+  position:relative; 
+  left: 2px; 
+  text-indent: 12px; 
+  font-weight: 700;
+  font-family: cursive;
+  
+} 
+
+h2{ 
+  background-color: yellow; 
+  width: 1305px;
+  position: relative;  
+  font-size: 30pt; 
+  font-family: sans-serif; 
+  top: -575px; 
+  text-indent: 12px; 
+  font-weight: 700; 
+  font-family: cursive;
+  font-style: italic; 
+}
+
+ul{ 
+  position: relative;  
+  margin-left: 12px;
+  font-size: 20pt;
+  top: -575px;
+  font-family: sans-serif; 
+  font-weight: 500; 
+  font-size: 20pt;
+}
+
+ol{ 
+  position: relative; 
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 20pt;
+  list-style-position: inside;
+  top: -575px; 
+  
+}
+
+.bananabread2{
+    position: relative;
+    float: right; 
+    bottom: 68px;
+}
+.bananas{ 
+    position: relative; 
+    left: 1315px;
+    top: 62px;
+}
